@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://codex-ml.github.io](https://codex-ml.github.io)
 
-- 📝 I regularly write articles on [https://codex-ml.github.io](https://codex-ml.github.io)
+- 📝 I regularly write articles on [https://codex-ml.github.io](https://codex-ml.github.io/blogs)
 
 - 💬 Ask me about **Anything**
 
@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/@code_ml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="@CODEX_ML" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@CODEX_ML" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@code_ml" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/CODEX_ML" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@code_ml" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
