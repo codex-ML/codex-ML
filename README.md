@@ -14,7 +14,9 @@
 - 📫 How to reach me **@CODEX_ML**
 
 - 📄 Know about my experiences [https://codex-ml.github.io/profile](https://codex-ml.github.io/profile)
+- Achivements
 
+- <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6721cc2e-cdf4-42d0-ac3b-a3a05ec77db3" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 - ⚡ Fun fact **I'm mental**
 
 <h3 align="left">Connect with me:</h3>
